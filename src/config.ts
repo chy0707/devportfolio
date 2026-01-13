@@ -17,7 +17,7 @@ export const siteConfig = {
       name: "ANCHOR – User-Centered Mood Tracking Product",
       description:
         "A 0→1 mental wellbeing MVP that translates product psychology into a functional PWA. Defined product vision, user personas, success metrics, roadmap, and shipped a complete end-to-end product experience independently.",
-      link: "anchor-mood.vercel.app",
+      link: "https://anchor-mood.vercel.app",
       skills: [
         "Product Strategy",
         "User Research",
