@@ -48,7 +48,7 @@ export const siteConfig = {
       title: "Data Analyst Intern",
       dateRange: "Sep 2024 - Nov 2024",
       bullets: [
-        "Product Owner, Enterprise Marketing Analytics"
+        "Product Owner, Enterprise Marketing Analytics",
         "Owned the end-to-end definition of the campaign performance tracking system by establishing KPI taxonomy, success metrics, and diagnostic frameworks, reducing client time-to-insight by 30%.",
         "Shaped the product roadmap by prioritizing high-impact analytics use cases in Jira with growth and client success teams.",
         "Designed and shipped self-serve dashboards for cross-channel benchmarking and anomaly detection, improving acquisition efficiency by 20%.",
@@ -59,7 +59,7 @@ export const siteConfig = {
       title: "Data Analyst Intern",
       dateRange: "Jul 2024 - Sep 2024",
       bullets: [
-        "Product Owner, Investment Portfolio Optimization"
+        "Product Owner, Investment Portfolio Optimization",
         "Defined portfolio optimization frameworks by synthesizing 1M+ transaction records, market data, and benchmarks.",
         "Converted complex analytics outputs into executive-ready investment recommendations.",
         "Improved decision accuracy and shortened client decision cycles through structured data storytelling.",
@@ -70,7 +70,7 @@ export const siteConfig = {
       title: "Product Data Analyst",
       dateRange: "May 2021 - Apr 2022",
       bullets: [
-        "Product Owner, Growth & Localization"
+        "Product Owner, Growth & Localization",
         "Implemented A/B testing-driven budget reallocation strategies, reducing annual marketing cost by ¥500K while maintaining stable activation rates.",
         "Led cross-functional alignment across marketing, operations, and regional teams with shared success metrics and experimentation protocols.",
         "Productized localized growth mechanisms that increased retention by 22% and promotion revenue by 18%.",
@@ -84,7 +84,7 @@ export const siteConfig = {
       degree: "M.S. in Commerce & Economic Development",
       dateRange: "Sep 2023 - Mar 2025",
       achievements: [
-        "GPA: 3.95/4.00"
+        "GPA: 3.95/4.00",
         "Global Ambassador of College",
         "Courses: User Behavior Analytics, Big Data Analytics, Database Management, Machine Learning, Predictive Analytics",
       ],
