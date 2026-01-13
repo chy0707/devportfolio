@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Haoyu Cheng",
-  title: "Data-driven Product Owner | Product Analytics | Growth Strategy",
+  title: "Data-driven Product Manager | Product Analytics | Growth Strategy",
   description:
     "Portfolio of Haoyu Cheng – Data-driven Product Owner specializing in product analytics, experimentation, and human-centered design.",
   accentColor: "#1d4ed8",
